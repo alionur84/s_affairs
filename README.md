@@ -1,4 +1,4 @@
-# s_affairs
+# s_affairs - Yazılım gelistirme dersi vize odevi
 
 Dokuz Eylül Ünv. YBS programı Yazılım Geliştirme Dersi Vize Ödevi  
 
